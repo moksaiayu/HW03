@@ -1,0 +1,15 @@
+
+public class P28 {
+	public static void main(String[] args)
+	{
+		int i=1;
+		do
+		{
+			
+				System.out.println("²Ä"+i+"¦¸ªº­~°é");
+		i++;
+		}while(i<=5);
+			
+		
+	}
+}
